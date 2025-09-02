@@ -1,7 +1,7 @@
 # 🎮 Pokemon Guess Game
-
-![Pokemon Guess Game Screenshot](screen1.png)
-
+<p align="center">
+  <img src="pokemon-game/ScreenShots/screen1.png" alt="screenShots" width="220"/>
+</p>
 A beautiful iOS Pokemon guessing game built with **UIKit programmatically** and **RxSwift/RxCocoa** following the **MVVM architecture pattern**. The game displays Pokemon images and challenges players to guess the correct name from 4 multiple choice options with 3 tries per Pokemon.
 
 ## 📱 Features
@@ -54,7 +54,7 @@ pokemon-game/
 
 **Requirements**: iOS 16.4+, Xcode 14.0+, Swift 5.0+
 
-## 📚 For Me: Remember It 😂💧
+## 📚 For Me: Remember It 😅
 
 ### **RxSwift Concepts Used (Learning Reference):**
 
