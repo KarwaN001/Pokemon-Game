@@ -62,13 +62,37 @@
 			children = (
 				9C95CEAA2E6743C300F7A2A4 /* AppDelegate.swift */,
 				9C95CEAC2E6743C300F7A2A4 /* SceneDelegate.swift */,
-				9C95CEAE2E6743C300F7A2A4 /* ViewController.swift */,
+				9C95CEC82E6761FA00F7A2A4 /* View */,
+				9C95CEC92E67621700F7A2A4 /* Model */,
+				9C95CECA2E67622300F7A2A4 /* ViewModel */,
 				9C95CEB02E6743C400F7A2A4 /* Main.storyboard */,
 				9C95CEB32E6743C600F7A2A4 /* Assets.xcassets */,
 				9C95CEB52E6743C600F7A2A4 /* LaunchScreen.storyboard */,
 				9C95CEB82E6743C600F7A2A4 /* Info.plist */,
 			);
 			path = "pokemon-game";
+			sourceTree = "<group>";
+		};
+		9C95CEC82E6761FA00F7A2A4 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				9C95CEAE2E6743C300F7A2A4 /* ViewController.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		9C95CEC92E67621700F7A2A4 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		9C95CECA2E67622300F7A2A4 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
